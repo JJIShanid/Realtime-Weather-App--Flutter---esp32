@@ -32,6 +32,11 @@ This project can be adapted for:
 - 📲 **Any real-time mobile data visualization system**
 
 ---
+Clean code structuring and modular Dart development
+![3](https://github.com/user-attachments/assets/4c6002f7-4987-4632-9a5a-278df7f897d9)
+![2](https://github.com/user-attachments/assets/f64466f3-3a1d-4aca-8daf-c5b75b4a0bff)
+![1](https://github.com/user-attachments/assets/d981bccf-524e-44e6-b4d2-0620a1a705fa)
+
 
 ## 🔧 Setup Instructions
 
@@ -87,10 +92,6 @@ Hands-on experience in real-time mobile app development
 
 Cloud-based communication between hardware and software
 
-Clean code structuring and modular Dart development
-![3](https://github.com/user-attachments/assets/4c6002f7-4987-4632-9a5a-278df7f897d9)
-![2](https://github.com/user-attachments/assets/f64466f3-3a1d-4aca-8daf-c5b75b4a0bff)
-![1](https://github.com/user-attachments/assets/d981bccf-524e-44e6-b4d2-0620a1a705fa)
 
 
 
