@@ -1,62 +1,97 @@
-<<<<<<< HEAD
-# Flutter App to display data from Sensor works with ESP32 and FIREBASE
-this app helps you to display Data in your phone and control angle Servo Motors ,the app connected to Firebase RTD
-you can display Temperature and speed of an steperMotor and also you can put data in Chart
-## Chart Screen
-<p >
+# Smart Sensor Monitoring App – Flutter + Firebase + ESP32
 
-<img src="https://github.com/misarb/esp32/blob/main/images/3.jpg" style=" width:400px ; height:700px "  >
+A real-time mobile application built using **Flutter**, integrated with **Firebase Realtime Database**, and connected to an **ESP32 microcontroller**. This project was developed and tested during my internship at **Mannlowe**, with the goal of demonstrating seamless cloud-connected sensor data visualization on mobile devices.
 
+---
 
-</p>
+## 🚀 Features
 
+- 🔹 Real-time monitoring of sensor values (e.g., temperature, humidity)
+- 🔹 Integration with Firebase Realtime Database for data sync
+- 🔹 Modular architecture for future support of multiple sensor types
+- 🔹 User-friendly Flutter interface for live visualization
+- 🔹 Easily expandable for BLE or Wi-Fi–based microcontroller communication
 
+---
 
-## display and control screen
-<p >
-<img src="https://github.com/misarb/esp32/blob/main/images/1.jpg" style=" width:400px ; height:700px "  >
-<img src="https://github.com/misarb/esp32/blob/main/images/2.jpg" style=" width:400px ; height:700px "  >
-</p>
+## 📱 Technologies Used
 
-## Technologies used
+| Layer             | Tools / Frameworks                    |
+|-------------------|----------------------------------------|
+| Mobile Frontend   | Flutter, Dart                         |
+| Cloud Backend     | Firebase Realtime Database, Firebase Auth (optional) |
+| IoT Hardware      | ESP32, DHT11 (or similar sensors)     |
 
-This project uses Flutter. The reason I chose Flutter is that I am very comfortable with using the framework and that you only have to write once and can run anywhere.
+---
 
-## Contributing
+## 🧪 Use Cases
 
-Contributions are always welcome!
-## To do
+This project can be adapted for:
+- 🌡️ **IoT-based environmental monitoring**
+- 🏥 **Healthcare prototype apps for sensor tracking**
+- 🧠 **Educational and research demonstration tools**
+- 📲 **Any real-time mobile data visualization system**
 
-- Radar Screen to display Ultrasonic data as a radar detector.
+---
 
-- UI upgrade.
+## 🔧 Setup Instructions
 
-## Clone this project
-
-```
-  git clone https://github.com/misarb/esp32.git
-```
-
-CD into the project
-
+1. **Clone the Repository**
 ```bash
-  cd esp32/lib
-```
+git clone https://github.com/your-username/esp32.git
+cd esp32
 
-Download dependencies 
+Install Flutter Dependencies
 
-```bash
-  flutter pub get
-```
+bash
+Copy
+Edit
+flutter pub get
+Connect Firebase
 
-Run the project
+Create a Firebase project
 
-```bash
-  flutter run
-```
-## Authors
+Add google-services.json to android/app/
 
-- [@misarb](https://github.com/misarb)
-=======
-# Realtime-Weather-App--Flutter---esp32
->>>>>>> e2db76eab8b283ba25ff227c6a1705946ad41c69
+Enable Firebase Realtime Database
+
+Run the App
+
+bash
+Copy
+Edit
+flutter run
+📂 Project Structure
+bash
+Copy
+Edit
+lib/
+ ├── main.dart             # Entry point
+ ├── home.dart             # UI to show live sensor data
+ ├── firebase_service.dart # Firebase connectivity logic
+ └── sensor_model.dart     # Sensor data model structure
+📘 Project Background
+This project was built and refined during my internship at Mannlowe, where I contributed to mobile and IoT-based product development. It served as a hands-on demonstration of integrating real-world hardware with real-time cloud systems using Flutter and Firebase.
+
+I was responsible for:
+
+Setting up Firebase DB architecture
+
+Building the mobile interface in Flutter
+
+Writing backend logic for syncing ESP32 data
+
+Testing and debugging end-to-end data flow
+
+🎯 Key Learning Highlights
+Hands-on experience in real-time mobile app development
+
+Cloud-based communication between hardware and software
+
+Clean code structuring and modular Dart development
+
+Firebase Authentication and database security basics
+
+👨‍💻 Developer
+Ishan 
+
