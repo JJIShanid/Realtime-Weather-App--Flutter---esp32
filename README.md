@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter App to display data from Sensor works with ESP32 and FIREBASE
 this app helps you to display Data in your phone and control angle Servo Motors ,the app connected to Firebase RTD
 you can display Temperature and speed of an steperMotor and also you can put data in Chart
@@ -56,3 +57,6 @@ Run the project
 ## Authors
 
 - [@misarb](https://github.com/misarb)
+=======
+# Realtime-Weather-App--Flutter---esp32
+>>>>>>> e2db76eab8b283ba25ff227c6a1705946ad41c69
