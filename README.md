@@ -32,10 +32,9 @@ This project can be adapted for:
 - 📲 **Any real-time mobile data visualization system**
 
 ---
-Clean code structuring and modular Dart development
-![3](https://github.com/user-attachments/assets/4c6002f7-4987-4632-9a5a-278df7f897d9)
-![2](https://github.com/user-attachments/assets/f64466f3-3a1d-4aca-8daf-c5b75b4a0bff)
-![1](https://github.com/user-attachments/assets/d981bccf-524e-44e6-b4d2-0620a1a705fa)
+![3](https://github.com/user-attachments/assets/e7fd0d4a-61a9-4923-853b-03b793eb1b2d)
+![2](https://github.com/user-attachments/assets/7953eea5-0da5-40aa-ad90-d29ece70b15a)
+![1](https://github.com/user-attachments/assets/4d6e74a7-f974-4193-89c0-02f852e48b5d)
 
 
 ## 🔧 Setup Instructions
