@@ -2,10 +2,6 @@
 
 A real-time mobile application built using **Flutter**, integrated with **Firebase Realtime Database**, and connected to an **ESP32 microcontroller**. This project was developed and tested during my internship at **Mannlowe**, with the goal of demonstrating seamless cloud-connected sensor data visualization on mobile devices.
 
----![3](https://github.com/user-attachments/assets/ae8c6ed3-f837-497f-8f10-57b94a1fc106)
-![2](https://github.com/user-attachments/assets/b4acf4ed-9502-4b88-8e77-6dbffab3897a)
-![1](https://github.com/user-attachments/assets/c0f92f0a-59da-41e5-a287-122de6f84dd2)
-
 
 ## 🚀 Features
 
@@ -92,6 +88,11 @@ Hands-on experience in real-time mobile app development
 Cloud-based communication between hardware and software
 
 Clean code structuring and modular Dart development
+![3](https://github.com/user-attachments/assets/4c6002f7-4987-4632-9a5a-278df7f897d9)
+![2](https://github.com/user-attachments/assets/f64466f3-3a1d-4aca-8daf-c5b75b4a0bff)
+![1](https://github.com/user-attachments/assets/d981bccf-524e-44e6-b4d2-0620a1a705fa)
+
+
 
 Firebase Authentication and database security basics
 
