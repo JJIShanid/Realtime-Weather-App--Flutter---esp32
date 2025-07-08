@@ -2,7 +2,10 @@
 
 A real-time mobile application built using **Flutter**, integrated with **Firebase Realtime Database**, and connected to an **ESP32 microcontroller**. This project was developed and tested during my internship at **Mannlowe**, with the goal of demonstrating seamless cloud-connected sensor data visualization on mobile devices.
 
----
+---![3](https://github.com/user-attachments/assets/ae8c6ed3-f837-497f-8f10-57b94a1fc106)
+![2](https://github.com/user-attachments/assets/b4acf4ed-9502-4b88-8e77-6dbffab3897a)
+![1](https://github.com/user-attachments/assets/c0f92f0a-59da-41e5-a287-122de6f84dd2)
+
 
 ## 🚀 Features
 
